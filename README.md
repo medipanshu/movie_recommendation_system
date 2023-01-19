@@ -10,6 +10,7 @@ There is mode select option on calling predection function by which you can sele
 
 Genre_based_prediction.ipynb => Notebook contains codes for data processing and ml model to predict movies based on genre.
  
+List of movies that model can predict and used to train are in 'movie_list.csv'
 
 About DataSet:
 
